@@ -15,4 +15,9 @@ class HousingScheme{
     // public data:
     public:
         
+};
+
+class Flats : public HousingScheme{
+    public:
+        double rent; // diff b/w float and rednt
 }
